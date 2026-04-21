@@ -2,7 +2,7 @@ Here're some examples of A/B testing implementation, including design, split, an
 
 2 assignments are from the MTS School of Data Analysis course, which has a separate repository.
 1 assignment is from the MIPT course on Applied Data Analytics, where almost an end-to end pipeline was implemented.
-There was also recently added the T-Bank's Risk Analytics course's assignment, where were discussed the basics of underlying theory of controlled experiments. 
+There was also recently added the T-Bank's Risk Analytics course's assignment, where were discussed the basics of underlying theory of the controlled experiments. 
 
 The python notebooks contain performed tests with the functionality of Ambrosia open-source library, which is extremely convenient for performing A/B pipelines.
 
